@@ -2,22 +2,52 @@
 
 This repository contains the required code and data to produce results presented in <REF>. 
 Additional software used:
-* [CAIcal]()
-* [IUPred]()
-* [Gprofiler]()
-=========================================================================================================
+* [CAIcal](http://genomes.urv.es/CAIcal/)
+* [IUPred](https://iupred2a.elte.hu/)
+* [Gprofiler](https://biit.cs.ut.ee/gprofiler/page/docs)
+
+
 ## Code
 
 Analysis code used to process/generate data in this study; in the analysisCode/ directory
 
+**WGD_vs_SSD_final_clean.ipynb:** Python code including data cleaning and processing, some statistical analysis and figure production
+
+**Duplicate_age_regression.ipynb:** Regression analysis generating values for each gene feature adjusted for age
+
+**Random_forest_classifier_final:** Code generating a random forest classifier and estimating feature importance
 
 
-
-===========================================================================================================================
 ## Input data
 
-Datasets required to generate outputs in this study in combination with code above; in the inputDatasets directory
-===========================================================================================================================
+Datasets required to generate outputs in this study in combination with code above; in the inputDatasets/ directory. References for the source files present are given in <REF>
+
+**segments/:** Syntenic segments generated in Nakatani et al. 2021; map/ directory contains files genomic coordinates in extant genome for each segment, seg/ directory contains files with genes (Ensembl protein ids; file with gene ids in suppData/) contained within each segment; the HUMAN.txt files are used in this study in each case
+
+***.tpms.tsv:** Expression data from sources given in <REF>
+
+***v99\*.txt:** Files downloaded from Ensembl biomart
+
+**cdsSequence.fa:** Longest CDS sequence associated to the gene id given in the header
+
+**exonCoords.txt, exonEnds.txt:** Genomic location of exons by transcript ID
+
+**GenicIntolerance_v3_12Mar16.txt:** Source file for RVIS values
+
+**gnomad.v2.1.1.lof_metrics.by_gene.txt:** Source file for missense Z score and pLI
+
+**GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct:** Median TPM values per tissue from GTEx v8
+
+**hsapiens.Pairs.\*.2R.txt:** Ohnolog pairs from Singh et al. at cutoffs of varying stringency
+
+**HuRI_2_10_2019.tsv:** PPIs from the Human Interactome
+
+**ohnologs_2010.csv:** Ohnolog pairs from Makino and McLysaght 2010
+
+**phi_scores.txt:** Source file for Phi scores
+
+**shet_estimates.csv:** Source file for S<sub>het</sub> scores
+
 ## Generated data
 
 Data created in the course of this study; in the suppData/ directory.
@@ -54,7 +84,7 @@ Table including all coding genes obtained from Ensembl and features assigned eit
   * **Phi:** Probability of haploinsufficiency
   * **mis\_Z\_score:** Missense Z\-score
   * **pLI\_score:** Probability of LoF intolerance
-  * **s\_het:** S<sub>het</sub>
+  * **s\_het:** S<sub>het</sub> score
   * **RVIS:** Residual variation intolerance score
   * **CAI:** Codon adaptation index, calculated on longest translation
   * **IntDisProp:** Proportion of longest protein determined to be intrinsically disordered
@@ -72,8 +102,8 @@ All paralog pairs (and singleton genes), listed with various information and cla
   * **id:** Ensembl gene ID
   * **para:** A paralog of id
   * **ageNode:** LCA of the paralogs according to Ensembl
-  * **dN:** 
-  * **dS:**
+  * **dN:** dN values between paralogs
+  * **dS:** dS values between paralogs
   * **singleton:** F or NULL, whether the row represents an unduplicated gene (all previous columns will be NULL)
   * **retro:** T if paralog pair is classed as originating from a retroduplication, F or NULL otherwise
   * **preVertebrata:** T if paralogs arise from a duplication that occurred before the Vertebrata node according to ageNode, F otherwise
@@ -81,6 +111,11 @@ All paralog pairs (and singleton genes), listed with various information and cla
   * **ohnoSingh:** T if paralog pair is classed as originating from WGD according to the Singh et al. dataset, F otherwise
   * **ohno2020:** T if paralog pair is classed as originating from WGD according to the dataset generated in this study, F otherwise
 
+**overRep_\*_final.csv:** Over-represented GO terms as defined by gProfiler for each duplicability category; SSD, WGD and singleton (Sing). Version with a third column containing the p-value is also provided.
 
+**underRep_\*_final.csv:** Under-represented GO terms as defined by gProfiler for each duplicability category; SSD, WGD and singleton (Sing). Version with a third column containing the p-value is also provided.
 
-=========================================================================================================
+**genesInSeg_coding.txt:** Coding genes present in syntenic segments from Nakatani et al. 2021, Ensembl gene ids 
+
+**ohnologsWholeGenome_gapAllowed8_minBlock3.txt:** Ohnolog pairs derived from syntenic segments in Nakatani et al. 2021 according to method described in <REF>
+
