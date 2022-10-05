@@ -1,0 +1,232 @@
+GO ID,Description
+GO:0140098,catalytic activity\, acting on RNA
+GO:0034660,ncRNA metabolic process
+GO:0034470,ncRNA processing
+GO:0042254,ribosome biogenesis
+GO:0022613,ribonucleoprotein complex biogenesis
+GO:0016072,rRNA metabolic process
+GO:0006364,rRNA processing
+GO:0005759,mitochondrial matrix
+GO:1990904,ribonucleoprotein complex
+GO:0140053,mitochondrial gene expression
+GO:0044391,ribosomal subunit
+GO:0006281,DNA repair
+GO:0006396,RNA processing
+GO:0006399,tRNA metabolic process
+GO:0009451,RNA modification
+GO:0032543,mitochondrial translation
+GO:0006259,DNA metabolic process
+GO:0003735,structural constituent of ribosome
+GO:0008033,tRNA processing
+GO:0098798,mitochondrial protein complex
+GO:0005743,mitochondrial inner membrane
+GO:0033108,mitochondrial respiratory chain complex assembly
+GO:0005840,ribosome
+GO:0006415,translational termination
+GO:0090305,nucleic acid phosphodiester bond hydrolysis
+GO:0006400,tRNA modification
+GO:0140101,catalytic activity\, acting on a tRNA
+GO:0019730,antimicrobial humoral response
+GO:0015934,large ribosomal subunit
+GO:0071166,ribonucleoprotein complex localization
+GO:0006310,DNA recombination
+GO:0071426,ribonucleoprotein complex export from nucleus
+GO:0019866,organelle inner membrane
+GO:0003723,RNA binding
+GO:0006405,RNA export from nucleus
+GO:0005739,mitochondrion
+GO:0070126,mitochondrial translational termination
+GO:0006302,double-strand break repair
+GO:0001510,RNA methylation
+GO:0070469,respirasome
+GO:0090501,RNA phosphodiester bond hydrolysis
+GO:0006414,translational elongation
+GO:0006959,humoral immune response
+GO:0120114,Sm-like protein family complex
+GO:0071427,mRNA-containing ribonucleoprotein complex export from nucleus
+GO:0006406,mRNA export from nucleus
+GO:0005746,mitochondrial respirasome
+GO:0042742,defense response to bacterium
+GO:0030532,small nuclear ribonucleoprotein complex
+GO:0000725,recombinational repair
+GO:0005681,spliceosomal complex
+GO:0000724,double-strand break repair via homologous recombination
+GO:0030880,RNA polymerase complex
+GO:0008173,RNA methyltransferase activity
+GO:0042274,ribosomal small subunit biogenesis
+GO:0004518,nuclease activity
+GO:0005730,nucleolus
+GO:0022626,cytosolic ribosome
+GO:0006613,cotranslational protein targeting to membrane
+GO:0098803,respiratory chain complex
+GO:0015935,small ribosomal subunit
+GO:0000428,DNA-directed RNA polymerase complex
+GO:0006974,cellular response to DNA damage stimulus
+GO:0055029,nuclear DNA-directed RNA polymerase complex
+GO:0006261,DNA-dependent DNA replication
+GO:0006353,DNA-templated transcription\, termination
+GO:0140375,immune receptor activity
+GO:0000049,tRNA binding
+GO:0005179,hormone activity
+GO:0140097,catalytic activity, acting on DNA
+GO:0032200,telomere organization
+GO:0004519,endonuclease activity
+GO:0006614,SRP-dependent cotranslational protein targeting to membrane
+GO:0090502,RNA phosphodiester bond hydrolysis, endonucleolytic
+GO:0016741,transferase activity, transferring one-carbon groups
+GO:0008168,methyltransferase activity
+GO:0000184,nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0050830,defense response to Gram-positive bacterium
+GO:0000781,chromosome, telomeric region
+GO:0005740,mitochondrial envelope
+GO:0000723,telomere maintenance
+GO:0043043,peptide biosynthetic process
+GO:0006413,translational initiation
+GO:0019843,rRNA binding
+GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0036297,interstrand cross-link repair
+GO:0051540,metal cluster binding
+GO:0016627,oxidoreductase activity, acting on the CH-CH group of donors
+GO:0051536,iron-sulfur cluster binding
+GO:0051168,nuclear export
+GO:0033260,nuclear DNA replication
+GO:0006611,protein export from nucleus
+GO:0004896,cytokine receptor activity
+GO:0031966,mitochondrial membrane
+GO:0006412,translation
+GO:0004540,ribonuclease activity
+GO:0022618,ribonucleoprotein complex assembly
+GO:0008009,chemokine activity
+GO:0006518,peptide metabolic process
+GO:0006283,transcription-coupled nucleotide-excision repair
+GO:0000070,mitotic sister chromatid segregation
+GO:0042273,ribosomal large subunit biogenesis
+GO:0071826,ribonucleoprotein complex subunit organization
+GO:0022904,respiratory electron transport chain
+GO:0004386,helicase activity
+GO:0006120,mitochondrial electron transport\, NADH to ubiquinone
+GO:0016491,oxidoreductase activity
+GO:0019080,viral gene expression
+GO:0022900,electron transport chain
+GO:0045047,protein targeting to ER
+GO:0098542,defense response to other organism
+GO:0005657,replication fork
+GO:0042773,ATP synthesis coupled electron transport
+GO:0019083,viral transcription
+GO:0072599,establishment of protein localization to endoplasmic reticulum
+GO:0042775,mitochondrial ATP synthesis coupled electron transport
+GO:0000731,DNA synthesis involved in DNA repair
+GO:0006289,nucleotide-excision repair
+GO:0050829,defense response to Gram-negative bacterium
+GO:0071103,DNA conformation change
+GO:0004521,endoribonuclease activity
+GO:0016893,endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+GO:0051539,4 iron\, 4 sulfur cluster binding
+GO:0098800,inner mitochondrial membrane protein complex
+GO:0000956,nuclear-transcribed mRNA catabolic process
+GO:0031640,killing of cells of other organism
+GO:0000784,nuclear chromosome\, telomeric region
+GO:0098813,nuclear chromosome segregation
+GO:0071013,catalytic step 2 spliceosome
+GO:0000726,non-recombinational repair
+GO:0003724,RNA helicase activity
+GO:0042255,ribosome assembly
+GO:0043628,ncRNA 3'-end processing
+GO:0007059,chromosome segregation
+GO:0030488,tRNA methylation
+GO:0032259,methylation
+GO:0006403,RNA localization
+GO:0005126,cytokine receptor binding
+GO:0042379,chemokine receptor binding
+GO:0002637,regulation of immunoglobulin production
+GO:0016765,transferase activity\, transferring alkyl or aryl (other than methyl) groups
+GO:0003341,cilium movement
+GO:0019825,oxygen binding
+GO:0044786,cell cycle DNA replication
+GO:0000018,regulation of DNA recombination
+GO:0016591,RNA polymerase II, holoenzyme
+GO:0006520,cellular amino acid metabolic process
+GO:0030286,dynein complex
+GO:0035082,axoneme assembly
+GO:0008757,S-adenosylmethionine-dependent methyltransferase activity
+GO:0006749,glutathione metabolic process
+GO:0031145,anaphase-promoting complex-dependent catabolic process
+GO:0030545,receptor regulator activity
+GO:1902494,catalytic complex
+GO:0017004,cytochrome complex assembly
+GO:0043604,amide biosynthetic process
+GO:0070972,protein localization to endoplasmic reticulum
+GO:0043603,cellular amide metabolic process
+GO:0006303,double-strand break repair via nonhomologous end joining
+GO:0003823,antigen binding
+GO:0065004,protein-DNA complex assembly
+GO:0036064,ciliary basal body
+GO:0006323,DNA packaging
+GO:0016651,oxidoreductase activity\, acting on NAD(P)H
+GO:0001906,cell killing
+GO:0016071,mRNA metabolic process
+GO:0000819,sister chromatid segregation
+GO:0022627,cytosolic small ribosomal subunit
+GO:0048018,receptor ligand activity
+GO:0008175,tRNA methyltransferase activity
+GO:0051028,mRNA transport
+GO:0022625,cytosolic large ribosomal subunit
+GO:0004536,deoxyribonuclease activity
+GO:0006119,oxidative phosphorylation
+GO:0019985,translesion synthesis
+GO:0030546,signaling receptor activator activity
+GO:0070286,axonemal dynein complex assembly
+GO:0099023,vesicle tethering complex
+GO:0051236,establishment of RNA localization
+GO:0051607,defense response to virus
+GO:1901361,organic cyclic compound catabolic process
+GO:0016874,ligase activity
+GO:0006397,mRNA processing
+GO:0005814,centriole
+GO:0006260,DNA replication
+GO:0071824,protein-DNA complex subunit organization
+GO:0006301,postreplication repair
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+GO:0098687,chromosomal region
+GO:0006363,termination of RNA polymerase I transcription
+GO:0050658,RNA transport
+GO:0050657,nucleic acid transport
+GO:0002377,immunoglobulin production
+GO:0005777,peroxisome
+GO:0042579,microbody
+GO:0032039,integrator complex
+GO:0031975,envelope
+GO:0031967,organelle envelope
+GO:0034502,protein localization to chromosome
+GO:0031461,cullin-RING ubiquitin ligase complex
+GO:1990391,DNA repair complex
+GO:0030261,chromosome condensation
+GO:0042645,mitochondrial nucleoid
+GO:0009295,nucleoid
+GO:0004497,monooxygenase activity
+GO:0004812,aminoacyl-tRNA ligase activity
+GO:0016875,ligase activity\, forming carbon-oxygen bonds
+GO:1990204,oxidoreductase complex
+GO:0062125,regulation of mitochondrial gene expression
+GO:0002702,positive regulation of production of molecular mediator of immune response
+GO:0016891,endoribonuclease activity, producing 5'-phosphomonoesters
+GO:0008380,RNA splicing
+GO:0034508,centromere complex assembly
+GO:0033683,nucleotide-excision repair\, DNA incision
+GO:0002639,positive regulation of immunoglobulin production
+GO:0045333,cellular respiration
+GO:0043596,nuclear replication fork
+GO:0005689,U12-type spliceosomal complex
+GO:0045087,innate immune response
+GO:0048020,CCR chemokine receptor binding
+GO:1905368,peptidase complex
+GO:0031304,intrinsic component of mitochondrial inner membrane
+GO:0031305,integral component of mitochondrial inner membrane
+GO:0045005,DNA-dependent DNA replication maintenance of fidelity
+GO:0006361,transcription initiation from RNA polymerase I promoter
+GO:0009897,external side of plasma membrane
+GO:0097014,ciliary plasm
+GO:0019439,aromatic compound catabolic process
+GO:0016712,oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0009055,electron transfer activity
+GO:0016592,mediator complex

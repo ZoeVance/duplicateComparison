@@ -1,0 +1,231 @@
+GO:0140098,catalytic activity, acting on RNA,8.554405062652607e-26
+GO:0034660,ncRNA metabolic process,6.143571596250863e-25
+GO:0034470,ncRNA processing,1.6772575826191243e-24
+GO:0042254,ribosome biogenesis,6.1709492498219096e-24
+GO:0022613,ribonucleoprotein complex biogenesis,3.065557239417091e-23
+GO:0016072,rRNA metabolic process,1.0099359588994267e-18
+GO:0006364,rRNA processing,2.016895765332729e-18
+GO:0005759,mitochondrial matrix,7.255563783661646e-18
+GO:1990904,ribonucleoprotein complex,4.384018518336442e-16
+GO:0140053,mitochondrial gene expression,2.3668652134626965e-15
+GO:0044391,ribosomal subunit,2.399586518714131e-15
+GO:0006281,DNA repair,6.696497563869813e-15
+GO:0006396,RNA processing,1.601571782490672e-14
+GO:0006399,tRNA metabolic process,1.601571782490672e-14
+GO:0009451,RNA modification,8.209366561882388e-14
+GO:0032543,mitochondrial translation,8.444889598548478e-14
+GO:0006259,DNA metabolic process,2.6156581935029515e-13
+GO:0003735,structural constituent of ribosome,3.495394372971794e-13
+GO:0008033,tRNA processing,9.63794295311998e-12
+GO:0098798,mitochondrial protein complex,1.1063149435639346e-11
+GO:0005743,mitochondrial inner membrane,5.020446522851651e-11
+GO:0033108,mitochondrial respiratory chain complex assembly,7.368772686249059e-11
+GO:0005840,ribosome,8.082781239079041e-11
+GO:0006415,translational termination,3.8072611619712385e-10
+GO:0090305,nucleic acid phosphodiester bond hydrolysis,4.526568787301779e-10
+GO:0006400,tRNA modification,1.2919329029385602e-09
+GO:0140101,catalytic activity, acting on a tRNA,1.6104623375678763e-09
+GO:0019730,antimicrobial humoral response,2.247276042822172e-09
+GO:0015934,large ribosomal subunit,2.3472948892761803e-09
+GO:0071166,ribonucleoprotein complex localization,3.898454522428616e-09
+GO:0006310,DNA recombination,4.221112122444253e-09
+GO:0071426,ribonucleoprotein complex export from nucleus,4.786144188425067e-09
+GO:0019866,organelle inner membrane,5.334666810001186e-09
+GO:0003723,RNA binding,6.563916550559026e-09
+GO:0006405,RNA export from nucleus,1.530585886015529e-08
+GO:0005739,mitochondrion,1.559591231875186e-08
+GO:0070126,mitochondrial translational termination,1.8101351368098285e-08
+GO:0006302,double-strand break repair,2.7155403619050254e-08
+GO:0001510,RNA methylation,3.643333798194841e-08
+GO:0070469,respirasome,5.974726030671372e-08
+GO:0090501,RNA phosphodiester bond hydrolysis,8.81358813282208e-08
+GO:0006414,translational elongation,1.290050036959014e-07
+GO:0006959,humoral immune response,2.1547270575069886e-07
+GO:0120114,Sm-like protein family complex,3.0013912173210596e-07
+GO:0071427,mRNA-containing ribonucleoprotein complex export from nucleus,5.231288740377414e-07
+GO:0006406,mRNA export from nucleus,5.231288740377414e-07
+GO:0005746,mitochondrial respirasome,8.356781432495257e-07
+GO:0042742,defense response to bacterium,8.555634488198828e-07
+GO:0030532,small nuclear ribonucleoprotein complex,8.808174880602172e-07
+GO:0000725,recombinational repair,1.4064298883291125e-06
+GO:0005681,spliceosomal complex,1.4420580199191296e-06
+GO:0000724,double-strand break repair via homologous recombination,2.2933534957318592e-06
+GO:0030880,RNA polymerase complex,2.9443885499321826e-06
+GO:0008173,RNA methyltransferase activity,3.0439737691188163e-06
+GO:0042274,ribosomal small subunit biogenesis,3.0629535117421086e-06
+GO:0004518,nuclease activity,3.225166834135019e-06
+GO:0005730,nucleolus,3.390878718982536e-06
+GO:0022626,cytosolic ribosome,4.4780734993066345e-06
+GO:0006613,cotranslational protein targeting to membrane,4.5691393579669656e-06
+GO:0098803,respiratory chain complex,4.608284118157965e-06
+GO:0015935,small ribosomal subunit,4.608284118157965e-06
+GO:0000428,DNA-directed RNA polymerase complex,6.5408789513975955e-06
+GO:0006974,cellular response to DNA damage stimulus,7.210799645816132e-06
+GO:0055029,nuclear DNA-directed RNA polymerase complex,8.15635730134097e-06
+GO:0006261,DNA-dependent DNA replication,8.728990175217032e-06
+GO:0006353,DNA-templated transcription, termination,1.086212810860216e-05
+GO:0140375,immune receptor activity,1.1847419398327821e-05
+GO:0000049,tRNA binding,1.3254657457726997e-05
+GO:0005179,hormone activity,1.3254657457726997e-05
+GO:0140097,catalytic activity, acting on DNA,1.3254657457726997e-05
+GO:0032200,telomere organization,1.6149913624515703e-05
+GO:0004519,endonuclease activity,1.670186840725093e-05
+GO:0006614,SRP-dependent cotranslational protein targeting to membrane,1.6716781830274936e-05
+GO:0090502,RNA phosphodiester bond hydrolysis, endonucleolytic,1.756241716639525e-05
+GO:0016741,transferase activity, transferring one-carbon groups,1.8477354013506307e-05
+GO:0008168,methyltransferase activity,1.9293622979139012e-05
+GO:0000184,nuclear-transcribed mRNA catabolic process, nonsense-mediated decay,2.0644874690851397e-05
+GO:0050830,defense response to Gram-positive bacterium,2.0944380475960814e-05
+GO:0000781,chromosome, telomeric region,2.174194717564296e-05
+GO:0005740,mitochondrial envelope,2.3388552258349054e-05
+GO:0000723,telomere maintenance,2.9209643478402406e-05
+GO:0043043,peptide biosynthetic process,3.097013955864312e-05
+GO:0006413,translational initiation,3.2966278467927776e-05
+GO:0019843,rRNA binding,3.844813580006436e-05
+GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,4.103462082322317e-05
+GO:0036297,interstrand cross-link repair,4.148862073383354e-05
+GO:0051540,metal cluster binding,4.4151091978173455e-05
+GO:0016627,oxidoreductase activity, acting on the CH-CH group of donors,4.4151091978173455e-05
+GO:0051536,iron-sulfur cluster binding,4.4151091978173455e-05
+GO:0051168,nuclear export,8.383306203585116e-05
+GO:0033260,nuclear DNA replication,9.409469553079265e-05
+GO:0006611,protein export from nucleus,9.409469553079265e-05
+GO:0004896,cytokine receptor activity,9.734459543149549e-05
+GO:0031966,mitochondrial membrane,0.00011564124654671584
+GO:0006412,translation,0.00011736425107046988
+GO:0004540,ribonuclease activity,0.0001196792958708202
+GO:0022618,ribonucleoprotein complex assembly,0.0001431350515190927
+GO:0008009,chemokine activity,0.00015175215874228462
+GO:0006518,peptide metabolic process,0.00017949345250548694
+GO:0006283,transcription-coupled nucleotide-excision repair,0.00018174339683052387
+GO:0000070,mitotic sister chromatid segregation,0.00018174339683052387
+GO:0042273,ribosomal large subunit biogenesis,0.00018174339683052387
+GO:0071826,ribonucleoprotein complex subunit organization,0.00020966048869363807
+GO:0022904,respiratory electron transport chain,0.0002755620828274612
+GO:0004386,helicase activity,0.0002771461300987387
+GO:0006120,mitochondrial electron transport, NADH to ubiquinone,0.0003337246558488614
+GO:0016491,oxidoreductase activity,0.00037356548499413873
+GO:0019080,viral gene expression,0.0003801110112946125
+GO:0022900,electron transport chain,0.0003801110112946125
+GO:0045047,protein targeting to ER,0.0004576960772165067
+GO:0098542,defense response to other organism,0.0004617969519342321
+GO:0005657,replication fork,0.0004698476738354213
+GO:0042773,ATP synthesis coupled electron transport,0.0004734418478396029
+GO:0019083,viral transcription,0.0005346237681464737
+GO:0072599,establishment of protein localization to endoplasmic reticulum,0.0005758348563246623
+GO:0042775,mitochondrial ATP synthesis coupled electron transport,0.0005900289585060521
+GO:0000731,DNA synthesis involved in DNA repair,0.0006265223590489408
+GO:0006289,nucleotide-excision repair,0.000660276810927638
+GO:0050829,defense response to Gram-negative bacterium,0.000660276810927638
+GO:0071103,DNA conformation change,0.0007129122394776162
+GO:0004521,endoribonuclease activity,0.0007178566298691671
+GO:0016893,endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters,0.0008626454317521067
+GO:0051539,4 iron, 4 sulfur cluster binding,0.0008626454317521067
+GO:0098800,inner mitochondrial membrane protein complex,0.0009566182517346533
+GO:0000956,nuclear-transcribed mRNA catabolic process,0.0010429953082497748
+GO:0031640,killing of cells of other organism,0.001063719822302367
+GO:0000784,nuclear chromosome, telomeric region,0.0012998887253473533
+GO:0098813,nuclear chromosome segregation,0.0013675883960250124
+GO:0071013,catalytic step 2 spliceosome,0.0014169822051823323
+GO:0000726,non-recombinational repair,0.0014429195447700752
+GO:0003724,RNA helicase activity,0.001749482978087791
+GO:0042255,ribosome assembly,0.0018082950625794717
+GO:0043628,ncRNA 3'-end processing,0.0019148533510285704
+GO:0007059,chromosome segregation,0.002388518378597021
+GO:0030488,tRNA methylation,0.002435216625994078
+GO:0032259,methylation,0.002435216625994078
+GO:0006403,RNA localization,0.0026167052691865146
+GO:0005126,cytokine receptor binding,0.0027009197492939316
+GO:0042379,chemokine receptor binding,0.002749403638594432
+GO:0002637,regulation of immunoglobulin production,0.0028508285865399747
+GO:0016765,transferase activity, transferring alkyl or aryl (other than methyl) groups,0.003106179049325243
+GO:0003341,cilium movement,0.003602868019397931
+GO:0019825,oxygen binding,0.0036311078803343616
+GO:0044786,cell cycle DNA replication,0.0036464688358515372
+GO:0000018,regulation of DNA recombination,0.0036464688358515372
+GO:0016591,RNA polymerase II, holoenzyme,0.0036494522400686074
+GO:0006520,cellular amino acid metabolic process,0.0037178590810340254
+GO:0030286,dynein complex,0.003722988255934692
+GO:0035082,axoneme assembly,0.004179549679594198
+GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,0.004325824455177448
+GO:0006749,glutathione metabolic process,0.0047713137786812385
+GO:0031145,anaphase-promoting complex-dependent catabolic process,0.005003467366877242
+GO:0030545,receptor regulator activity,0.005865772483871939
+GO:1902494,catalytic complex,0.0076695615778913945
+GO:0017004,cytochrome complex assembly,0.007895071420472622
+GO:0043604,amide biosynthetic process,0.008032214311593821
+GO:0070972,protein localization to endoplasmic reticulum,0.008051693601301613
+GO:0043603,cellular amide metabolic process,0.008067518721702315
+GO:0006303,double-strand break repair via nonhomologous end joining,0.008067518721702315
+GO:0003823,antigen binding,0.008264642614745377
+GO:0065004,protein-DNA complex assembly,0.008321179369802789
+GO:0036064,ciliary basal body,0.008619262265120959
+GO:0006323,DNA packaging,0.008797934913482335
+GO:0016651,oxidoreductase activity, acting on NAD(P)H,0.008839179872886111
+GO:0001906,cell killing,0.010044787529823698
+GO:0016071,mRNA metabolic process,0.010423300719942102
+GO:0000819,sister chromatid segregation,0.010749561251710343
+GO:0022627,cytosolic small ribosomal subunit,0.010812659786017413
+GO:0048018,receptor ligand activity,0.010924671064923555
+GO:0008175,tRNA methyltransferase activity,0.010924671064923555
+GO:0051028,mRNA transport,0.01106721824757647
+GO:0022625,cytosolic large ribosomal subunit,0.011216379270366119
+GO:0004536,deoxyribonuclease activity,0.011360037195319509
+GO:0006119,oxidative phosphorylation,0.011736494814979345
+GO:0019985,translesion synthesis,0.012286846215110182
+GO:0030546,signaling receptor activator activity,0.012471984498451551
+GO:0070286,axonemal dynein complex assembly,0.013144571883772481
+GO:0099023,vesicle tethering complex,0.015770809393337623
+GO:0051236,establishment of RNA localization,0.01581663373493525
+GO:0051607,defense response to virus,0.0170758980296079
+GO:1901361,organic cyclic compound catabolic process,0.0170758980296079
+GO:0016874,ligase activity,0.017411799887971355
+GO:0006397,mRNA processing,0.018010006552743738
+GO:0005814,centriole,0.019026490447029105
+GO:0006260,DNA replication,0.019503578440190038
+GO:0071824,protein-DNA complex subunit organization,0.019617505041753795
+GO:0006301,postreplication repair,0.020310906887957506
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,0.020588318944733203
+GO:0098687,chromosomal region,0.022794817380892347
+GO:0006363,termination of RNA polymerase I transcription,0.022933515951521197
+GO:0050658,RNA transport,0.02339489574608643
+GO:0050657,nucleic acid transport,0.02339489574608643
+GO:0002377,immunoglobulin production,0.02354005930920244
+GO:0005777,peroxisome,0.024718636162847227
+GO:0042579,microbody,0.024718636162847227
+GO:0032039,integrator complex,0.025360765836023907
+GO:0031975,envelope,0.025360765836023907
+GO:0031967,organelle envelope,0.025360765836023907
+GO:0034502,protein localization to chromosome,0.025451125454581766
+GO:0031461,cullin-RING ubiquitin ligase complex,0.02650727785204852
+GO:1990391,DNA repair complex,0.02650727785204852
+GO:0030261,chromosome condensation,0.026872407631355084
+GO:0042645,mitochondrial nucleoid,0.027350480385174226
+GO:0009295,nucleoid,0.027350480385174226
+GO:0004497,monooxygenase activity,0.027626920598378308
+GO:0004812,aminoacyl-tRNA ligase activity,0.027626920598378308
+GO:0016875,ligase activity, forming carbon-oxygen bonds,0.027626920598378308
+GO:1990204,oxidoreductase complex,0.027741246410189102
+GO:0062125,regulation of mitochondrial gene expression,0.02994739412930986
+GO:0002702,positive regulation of production of molecular mediator of immune response,0.03216820388175863
+GO:0016891,endoribonuclease activity, producing 5'-phosphomonoesters,0.03258791267364797
+GO:0008380,RNA splicing,0.032672232857663706
+GO:0034508,centromere complex assembly,0.033899710351248356
+GO:0033683,nucleotide-excision repair, DNA incision,0.033899710351248356
+GO:0002639,positive regulation of immunoglobulin production,0.033899710351248356
+GO:0045333,cellular respiration,0.03747396176260466
+GO:0043596,nuclear replication fork,0.039291597871785065
+GO:0005689,U12-type spliceosomal complex,0.03955925679226405
+GO:0045087,innate immune response,0.04049865858023954
+GO:0048020,CCR chemokine receptor binding,0.040786859700228224
+GO:1905368,peptidase complex,0.04190758577431054
+GO:0031304,intrinsic component of mitochondrial inner membrane,0.043658919772362
+GO:0031305,integral component of mitochondrial inner membrane,0.043658919772362
+GO:0045005,DNA-dependent DNA replication maintenance of fidelity,0.0438020830458276
+GO:0006361,transcription initiation from RNA polymerase I promoter,0.044039878166716236
+GO:0009897,external side of plasma membrane,0.045229144138108024
+GO:0097014,ciliary plasm,0.04614583151971231
+GO:0019439,aromatic compound catabolic process,0.04683324735754953
+GO:0016712,oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen,0.047016097652353366
+GO:0009055,electron transfer activity,0.0478429119801634
+GO:0016592,mediator complex,0.04971729034660273
