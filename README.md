@@ -1,4 +1,4 @@
-# Data and code for analysis for "Paper title."
+# Data and code for analysis for "Ohnologs and SSD paralogs differ in genomic and expression features related to dosage constraints"
 
 This repository contains the required code and data to produce results presented in <REF>. 
 Additional software used:
